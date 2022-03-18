@@ -1,4 +1,4 @@
-DDoS By NeXoS_20#4225
+#DDoS By NeXoS_20#4225
 
 Et ouvrez l'icone qui est apparus sur le bureau
 
