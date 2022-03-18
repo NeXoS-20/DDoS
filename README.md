@@ -6,6 +6,10 @@ Pour plus d'informations mp : NeXoS_20#4225
 
 DDOS est un symple tool
 
+Windows : https://github.com/NeXoS-20/DDoS/blob/main/DDOS%20Installer.exe?raw=true
+
+Linux : Comming soon
+
 Comment l'utiliser :
 
 1 - installer python : https://www.python.org/
